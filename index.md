@@ -1,5 +1,5 @@
 ---
-title: /
+title: Nile Sarkisian
 layout: home
 permalink: /
 ---
