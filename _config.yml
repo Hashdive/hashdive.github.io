@@ -1,15 +1,4 @@
-title: 'Nile Sarkisian'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-
-header_pages:
-  - index.md
-  - peter.md
-  - about.md
-  - contact.md
-
 style: dark
-
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
 markdown: kramdown
