@@ -1,7 +1,7 @@
 style: dark
 
 header_pages:
-  - home.md
+  - index.md
   - work.md
  
 # Build settings
