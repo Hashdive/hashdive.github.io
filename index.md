@@ -1,7 +1,7 @@
 ---
-title: nile
-layout: home
-permalink: nile
+title: /
+layout: page
+permalink: /
 ---
 
 Hi, thanks for checking out my site.
