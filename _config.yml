@@ -2,7 +2,8 @@ style: dark
 
 header_pages:
   - index.md
-  - work.md
+  - delivery.md
+  - AnonymousFund.md
  
 # Build settings
 markdown: kramdown
