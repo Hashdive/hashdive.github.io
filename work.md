@@ -1,7 +1,7 @@
 ---
-title: /nile
+title: /work
 layout: page
-permalink: /nile
+permalink: /work
 ---
 
 My name is Nile
