@@ -1,7 +1,7 @@
 ---
-title: Nile Sarkisian
+title: nile
 layout: home
-permalink: Nile Sarkisian
+permalink: nile
 ---
 
 Hi, thanks for checking out my site.
