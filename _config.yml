@@ -3,7 +3,7 @@ style: dark
 header_pages:
   - index.md
   - delivery.md
-  - AnonymousFund.md
+  - anonymousfund.md
   - unicornvalley.md
  
 # Build settings
